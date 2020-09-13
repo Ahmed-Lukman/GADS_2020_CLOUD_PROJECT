@@ -1,7 +1,7 @@
 # Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
 ## Task 1: Sign in to the Google Cloud Platform (GCP) Console
 ``` bash
-- gcloud auth login <email_address>
+- gcloud auth login <email_address> and press Enter
 - Enter password and press Enter
  ```
 

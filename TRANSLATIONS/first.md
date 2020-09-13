@@ -1,6 +1,6 @@
 # Google Cloud Fundamentals: Getting Started with Compute Engine
 ## Task 1: Sign in to the Google Cloud Platform (GCP) Console
-> - gcloud auth login horpeh99@gmail.com
+> - gcloud auth login <email_address> and press Enter
 > - Enter password and press Enter
 
 ## Task 2: Create a virtual machine using the GCP Console
